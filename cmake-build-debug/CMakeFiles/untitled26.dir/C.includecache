@@ -1,0 +1,32 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/tamir/CLionProjects/untitled26/ex51.c
+stdio.h
+-
+unistd.h
+-
+termios.h
+-
+signal.h
+-
+string.h
+-
+
+/home/tamir/CLionProjects/untitled26/ex52.c
+stdio.h
+-
+unistd.h
+-
+signal.h
+-
+stdbool.h
+-
+stdlib.h
+-
+

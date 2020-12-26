@@ -1,0 +1,3 @@
+/home/tamir/CLionProjects/untitled26/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/tamir/CLionProjects/untitled26/cmake-build-debug/CMakeFiles/untitled26.dir
+/home/tamir/CLionProjects/untitled26/cmake-build-debug/CMakeFiles/edit_cache.dir
